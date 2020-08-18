@@ -6,7 +6,6 @@
 
 <h3>Variable</h3>
 <p>let is scope variable.</p>
-<br>
 <h3>Templet String</h3>
 <pre>
 <code>
